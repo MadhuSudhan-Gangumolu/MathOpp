@@ -1,0 +1,9 @@
+D:\git\mathOpp\bin\Debug\netcoreapp3.1\mathOpp.deps.json
+D:\git\mathOpp\bin\Debug\netcoreapp3.1\mathOpp.dll
+D:\git\mathOpp\bin\Debug\netcoreapp3.1\mathOpp.pdb
+D:\git\mathOpp\obj\Debug\netcoreapp3.1\mathOpp.csprojAssemblyReference.cache
+D:\git\mathOpp\obj\Debug\netcoreapp3.1\mathOpp.AssemblyInfoInputs.cache
+D:\git\mathOpp\obj\Debug\netcoreapp3.1\mathOpp.AssemblyInfo.cs
+D:\git\mathOpp\obj\Debug\netcoreapp3.1\mathOpp.csproj.CoreCompileInputs.cache
+D:\git\mathOpp\obj\Debug\netcoreapp3.1\mathOpp.dll
+D:\git\mathOpp\obj\Debug\netcoreapp3.1\mathOpp.pdb
